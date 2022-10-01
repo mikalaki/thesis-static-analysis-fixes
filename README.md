@@ -6,8 +6,8 @@ Contents:
   - [Abstract](#abstract)
   - [Repository Structure](#repository-structure)
   - [Dependencies](#dependencies)
-    - [<u>External Systems involved</u>](#uexternal-systems-involvedu)
-    - [<u>Python Dependencies</u>](#upython-dependenciesu)
+    - [<u>External Systems involved</u>](#external-systems-involvedu)
+    - [<u>Python Dependencies</u>](#python-dependenciesu)
   - [Dataset](#dataset)
   - [Execution](#execution)
 
